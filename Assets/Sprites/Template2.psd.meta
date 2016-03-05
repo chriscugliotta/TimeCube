@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: e24fef3852a4245558bace3ef9e93329
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Template_Head
+    21300002: Template_LeftLeg
+    21300004: Template_RightLeg
+    21300006: Template_Neck
+    21300008: Template_RightArm
+    21300010: Template_RightForearm
+    21300012: Template_RightHand
+    21300014: Template_LeftArm
+    21300016: Template_LeftForearm
+    21300018: Template_LeftHand
+    21300020: Template_LeftShin
+    21300022: Template_RightShin
+    21300024: Template_Shoulders
+    21300026: Template_Back
+    21300028: Template_LeftFoot
+    21300030: Template_RightFoot
+    21300032: Template_Waist
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Template_Head
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 338
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Template_LeftLeg
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 224
+        width: 20
+        height: 70
+      alignment: 9
+      pivot: {x: .5, y: .850000024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Template_RightLeg
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 227
+        width: 20
+        height: 70
+      alignment: 9
+      pivot: {x: .5, y: .850000024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Template_Neck
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 222
+        width: 20
+        height: 100
+      alignment: 9
+      pivot: {x: .5, y: .100000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Template_RightArm
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 280
+        width: 70
+        height: 20
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Template_RightForearm
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 285
+        width: 60
+        height: 10
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Template_RightHand
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 279
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Template_LeftArm
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 219
+        width: 70
+        height: 20
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Template_LeftForearm
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 224
+        width: 60
+        height: 10
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Template_LeftHand
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 218
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Template_LeftShin
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 102
+        width: 10
+        height: 60
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Template_RightShin
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 101
+        width: 10
+        height: 60
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Template_Shoulders
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 149
+        width: 50
+        height: 60
+      alignment: 9
+      pivot: {x: .5, y: .200000003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Template_Back
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 69
+        width: 10
+        height: 60
+      alignment: 9
+      pivot: {x: .5, y: .150000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Template_LeftFoot
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 25
+        width: 20
+        height: 20
+      alignment: 9
+      pivot: {x: .25, y: .25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Template_RightFoot
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 28
+        width: 20
+        height: 20
+      alignment: 9
+      pivot: {x: .25, y: .25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Template_Waist
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 27
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
